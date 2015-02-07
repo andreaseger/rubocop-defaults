@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Rubocop::Defaults::VERSION
   spec.authors       = ["Andreas Eger"]
   spec.email         = ["dev@eger-andreas.de"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{rubocop defaults}
+  spec.description   = %q{rubocop defaults}
   spec.homepage      = ""
   spec.license       = "MIT"
 
