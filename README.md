@@ -1,6 +1,6 @@
 # Rubocop::Defaults
 
-TODO: Write a gem description
+a way to share rubocop config between projects
 
 ## Installation
 
@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the following line to your `.rubocop.yml`
+
+``` yml
+require: rubocop-defaults
+```
 
 ## Contributing
 
